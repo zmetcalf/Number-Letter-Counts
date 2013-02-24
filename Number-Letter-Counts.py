@@ -1,4 +1,4 @@
-#Solved but can be short
+#Solved but can be shortened by including OR statements in the functions
 
 Counter = 1
 total = 0
